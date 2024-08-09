@@ -1,1 +1,1 @@
-# Dharani_6292FCB06F0253383094599C58F3AF1B
+This repository contains simple python programs for beginners.
